@@ -17,8 +17,8 @@ downloaded 11.18.2026 |
 stream_temp_project/
 ├── README.md ← you are here
 └── scripts/ ← notebooks, numbered in the order they run
-├── 0_project_setup.ipynb
-└── 1_data_cleaning.ipynb
+  ├── 0_project_setup.ipynb
+  └── 1_data_cleaning.ipynb
 ```
 ## How to run the code
 All scripts are Google Colab notebooks written in R. Run them in number order:
