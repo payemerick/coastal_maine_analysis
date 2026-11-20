@@ -10,7 +10,7 @@ The Gulf of Maine is located in the Atlantic Ocean in the Northeast United State
 |------|-------------|--------|
 | `MaineDMR_Trawl_Survey_Tow_Data_2026-11-18.csv` | Seasonal Trawl Survey Tow Data with water temperature and coordinate data in latitude and longitude, one row per trawl. | Maine Department of Marine Resources, https://www.maine.gov/dmr/science/ecology-environment/inshore-trawl-survey —
 downloaded 11.18.2026 |
-| `MaineDMR_Trawl_Survey_Catch_at_Length_Data_2026-11-18.csv` | Seasonal Trawl Survey data with the frequency and length of fish species observed during each trawl event, one row per observation | [Maine Department of Marine Resources, https://www.maine.gov/dmr/science/ecology-environment/inshore-trawl-survey —
+| `MaineDMR_Trawl_Survey_Catch_at_Length_Data_2026-11-18.csv` | Seasonal Trawl Survey data with the frequency and length of fish species observed during each trawl event, one row per observation | Maine Department of Marine Resources, https://www.maine.gov/dmr/science/ecology-environment/inshore-trawl-survey —
 downloaded 11.18.2026 |
 ## Repository structure
 ```
